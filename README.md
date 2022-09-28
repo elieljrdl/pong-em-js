@@ -1,6 +1,6 @@
 # Jogo pong em JS
 
-Projeto realizado através do curso Lógica de programação: comece em lógica com o jogo Pong e Javascript pela, plataforma de cursos [Alura](https://www.alura.com.br/ "Alura")
+Projeto realizado através do curso Lógica de programação: comece em lógica com o jogo Pong e Javascript, pela plataforma de cursos [Alura](https://www.alura.com.br/ "Alura")
 
 Usado biblioteca e editor [p5.js](https://p5js.org/ "p5.js") 
 
